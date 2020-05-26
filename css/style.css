@@ -1,0 +1,24 @@
+﻿
+.left-margin {
+    margin-left: 100px;
+}
+
+.large-font {
+    font-size: 28px;
+}
+
+.medium-font {
+    font-size: 18px;
+}
+
+.fun-fact {
+    border-radius: 15px; /* Code From: W3Schools https://www.w3schools.com/cssref/css3_pr_border-radius.asp */
+    background: aliceblue;
+    margin: 20px;
+    padding: 15px;
+}
+
+.block-center {
+    margin-left: auto;
+    margin-right: auto;
+}
